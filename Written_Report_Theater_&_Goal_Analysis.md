@@ -10,11 +10,11 @@ This presentation have data focused and distribuited in 2 analysis
 The Theater Parent category with its results can be visualized per month, and the labels for the successful, 
 failed and canceled campaigns, including their Grand Total.
 A line with markers chart create a visual persperctive from the flow of data and will help us to better 
-perceive positions.
+visualize positions.
 
 ### Purpose
 
-In this presentation is demostrated de diferences from the fared campaigns in relation to their launch dates
+In this presentation is demostrated the diferences from the fared campaigns in relation to their launch dates
 and their funding goals
 
 ## Analysis and Challenges
@@ -25,7 +25,8 @@ A Median of 44 failed campaigns
 The Total of 37 canceled campaigns are below the 44 Median from the Failed, and a mode of 3 canceled campaigns.
 
 - Outcomes based on goals
-
+Is a range from less than a 1000, to more than 50000, divided in successful, failed and canceled campaigns, with their percentage.
+a line Chart help to visualize percentages among the ranges.
 
 
 It is a Challenge to increase the successful campaigns and lower the median from the failed campaigns
@@ -36,11 +37,13 @@ In the 12 months presented in the chart, we have a grand Total of 1369 campaings
 Total of 869 successful campaigns, leveing the month of may with the mayority of 111 successful campaigns.
 A Median of 44 failed campaigns
 The Total of 37 canceled campaigns are below the 44 Median from the Failed, and a mode of 3 canceled campaigns.
-The month of May have the highest flow from all campaigns with a total of 166,
+The month of May have the highest flow from all campaigns with a total of 166.
+
 
 ### Analysis of Outcomes Based on Goals
 
-
+The successful campaigns have an average of 61.04%, in the range from 50000 and more, there is a 65.07% of failed campaigns. 
+And a total of 828 canceled projects
 
 
 ### Challenges and Difficulties Encountered
@@ -64,8 +67,9 @@ Second conclusion, December is the less productive month whitin campaigns, prese
 
 - What can you conclude about the Outcomes based on Goals?
 
-
-
+The first conclusion is that 1332 projects equal and greater than  50000 Failed
+The second conclusion is that the mayority of successful projects are in the range from a 1000 to 4999, with a total of 1425
+ 
 - What are some limitations of this dataset?
 
 That is only the theater category presented.
